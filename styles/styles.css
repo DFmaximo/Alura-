@@ -216,3 +216,13 @@ text-decoration: none;
 .lista__link a:active {
     color: var(--cor-active);
 }
+
+.teste{
+    padding: 24px;
+    background-color: var(--primeira-cor);
+    color: var(--segunda-cor);
+    text-align: center;
+    font-family: var(--font-primaria);
+    font-size: 1.5rem;
+    font-weight: 400;
+}
